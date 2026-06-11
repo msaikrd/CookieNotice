@@ -1,6 +1,6 @@
 # Cookie Notice
 
-Un script ligero, dependiente de jQuery, para mostrar un banner de aviso de cookies (Cookie Notice) en tu sitio web. 
+Un script ligero, para mostrar un banner de aviso de cookies (Cookie Notice) en tu sitio web. 
 El script inyecta automáticamente sus estilos necesarios sin requerir archivos CSS externos adicionales.
 
 ## Características
