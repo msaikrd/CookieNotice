@@ -13,18 +13,14 @@ El script inyecta automáticamente sus estilos necesarios sin requerir archivos 
 
 ## Requisitos
 
-- jQuery (Cualquier versión reciente, ej. 3.x).
+- Ninguno. Es Vanilla JS, no requiere ninguna librería externa.
 
 ## Instalación y Uso
 
 1. Descarga el archivo `cookie-noticev1.js` y colócalo en tu proyecto.
-2. Incluye jQuery en tu archivo HTML si no lo tienes.
-3. Incluye el script de Cookie Notice.
+2. Incluye el script de Cookie Notice en tu archivo HTML.
 
 ```html
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
 <!-- Script de Cookie Notice -->
 <script src="ruta/a/tu/cookie-noticev1.js"></script>
 ```
